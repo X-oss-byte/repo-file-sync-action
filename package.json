@@ -34,7 +34,7 @@
     "action-input-parser": "^1.2.2",
     "fs-extra": "^10.0.0",
     "js-yaml": "^4.1.0",
-    "node-readfiles": "^0.2.0"
+    "node-readfiles": "^0.3.1"
   },
   "devDependencies": {
     "@vercel/ncc": "^0.28.6",
